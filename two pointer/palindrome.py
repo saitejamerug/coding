@@ -7,5 +7,5 @@ def palindrome(s):
         ri -= 1
     return True
 S = input()
-result = palindrome(S)
-print(result)
+res = palindrome(S)
+print(res)
